@@ -8,7 +8,7 @@
     "allowSyntheticDefaultImports": true,
     "target": "es2017",
     "sourceMap": true,
-    "outDir": "./dist",
+    "outDir": "pre-learning-1118/dist",
     "baseUrl": "./",
     "incremental": true,
     "skipLibCheck": true,
